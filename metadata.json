@@ -1,0 +1,6 @@
+{
+  "name": "ગુજરાત દર્શન 3D - માહિતી, નદીઓ, ડુંગરો અને પ્રમુખ શહેરો",
+  "description": "ગુજરાત રાજ્યની ભૌગોલિક, ઐતિહાસિક અને સાંસ્કૃતિક માહિતી, મુખ્ય નદીઓ, પર્વતો અને પ્રમુખ શહેરોનું ૩ડી (3D) ઇન્ટરેક્ટિવ દર્શન.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
